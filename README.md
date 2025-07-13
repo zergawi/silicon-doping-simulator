@@ -20,9 +20,8 @@ It supports both **N-type** and **P-type** doping and is tailored for researcher
 
 ## 📷 Screenshots
 
-> Add a screenshot here using:  
-> `![screenshot]("C:\Users\alzer\Desktop\sem.png")`  
-> You can upload images to the repo using GitHub web UI, then paste the link.
+<img width="1199" height="736" alt="image" src="https://github.com/user-attachments/assets/2a7f5ba6-69d0-4f72-b33a-73a458377c22" />
+
 
 ## 📁 Files Structure
 
